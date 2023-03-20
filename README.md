@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/marcusblue/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marcusblue/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  -  Creating a Subscription, Resource Group and Storage Account within Azure
+  -  [Creating a Subscription, Resource Group and Storage Account within Azure]
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcusblue/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcusblue/azure-network-protocols)
 
